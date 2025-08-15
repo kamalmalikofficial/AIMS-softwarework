@@ -1,2 +1,2 @@
 # AIMS-softwarework
-final-code is the main code file
+Final_Code_.ipynb is the last and final Code file 
